@@ -7,7 +7,7 @@ overview of my technical abilities and aspirations.
 **SAMPLE WEBSITE**
 
 
-<img width="1921" height="5580" alt="screencapture-127-0-0-1-3000-index-html-2025-07-20-14_57_14" src="https://github.com/user-attachments/assets/5c81663f-dc71-4b22-b310-553a93012486" />
+<img width="2000" height="5900" alt="screencapture-127-0-0-1-3000-index-html-2025-07-20-14_57_14" src="https://github.com/user-attachments/assets/5c81663f-dc71-4b22-b310-553a93012486" />
 
 
 🚀 Features
