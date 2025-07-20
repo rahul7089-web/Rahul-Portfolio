@@ -1,5 +1,7 @@
 My BCA Student Portfolio Website
 A responsive and interactive personal portfolio website showcasing my skills, projects, and academic journey as a BCA student. This website is designed to provide recruiters with a comprehensive overview of my technical abilities and aspirations.
+<img width="2000" height="5900" alt="screencapture-rahul7089-web-github-io-Rahul-Portfolio-2025-07-20-09_15_57" src="https://github.com/user-attachments/assets/6fa65b2e-20e8-4c93-a36e-2de7529a5705" />
+
 
 🚀 Features
 Clean & Responsive Design: Built with HTML and styled using Tailwind CSS, ensuring a seamless experience across all devices (desktop, tablet, mobile).
