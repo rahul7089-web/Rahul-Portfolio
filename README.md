@@ -67,7 +67,7 @@ Access Your Website:
 Your website will be live at https://rahul7089-web.github.io/Rahul-Portfolio/ within a few minutes.
 
 ✍️ Author
-Rahul Dhakar - https://rahul7089-web.github.io - LinkedIn Profile
+Rahul Dhakar - https://rahul7089-web.github - LinkedIn Profile
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
