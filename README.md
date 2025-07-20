@@ -6,7 +6,8 @@ overview of my technical abilities and aspirations.
 
 **SAMPLE WEBSITE**
 
-<img width="2000" height="5900" alt="screencapture-rahul7089-web-github-io-Rahul-Portfolio-2025-07-20-09_15_57" src="https://github.com/user-attachments/assets/6fa65b2e-20e8-4c93-a36e-2de7529a5705" />
+
+<img width="1921" height="5580" alt="screencapture-127-0-0-1-3000-index-html-2025-07-20-14_57_14" src="https://github.com/user-attachments/assets/5c81663f-dc71-4b22-b310-553a93012486" />
 
 
 🚀 Features
